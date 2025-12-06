@@ -1,18 +1,10 @@
 [
-    {
-        "id": "c1",
-        "code": "WELCOME10",
-        "type": "percent",
-        "value": 10,
-        "minCart": 0,
-        "expiry": "2030-12-31"
-    },
-    {
-        "id": "c2",
-        "code": "BIGSALE",
-        "type": "flat",
-        "value": 50,
-        "minCart": 200,
-        "expiry": "2030-12-31"
-    }
+  {
+    "id": "c1",
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "minCart": 0,
+    "expiry": "2030-12-31"
+  }
 ]

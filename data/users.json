@@ -1,4 +1,23 @@
 [
-  { "id": "1", "name": "Admin", "email": "admin@store.com", "password": "admin", "role": "admin" },
-  { "id": "2", "name": "User", "email": "user@store.com", "password": "user", "role": "user" }
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@store.com",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "User",
+    "email": "user@store.com",
+    "password": "user",
+    "role": "user"
+  },
+  {
+    "id": "1765001845901",
+    "name": "something",
+    "email": "something@123.com",
+    "password": "something",
+    "role": "user"
+  }
 ]
